@@ -8,7 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw0dA1CgnW6GTT9OR97Oq8GP&ust=1723984926358000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC7x7yG_IcDFQAAAAAdAAAAABAK"  />
 
 ###
 

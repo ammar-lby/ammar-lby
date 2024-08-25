@@ -8,7 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/ammar-lby?label=Follow&style=social)](https://github.com/ammar-lby)
 
-- 📚 I’m currently reading [Introducing Python: Modern Computing in Simple Packages (2nd New edition)]([https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html](https://www.whsmith.co.uk/products/introducing-python-modern-computing-in-simple-packages-2nd-new-edition/bill-lubanovic/paperback/9781492051367.html?gad_source=1&gclid=Cj0KCQjwrKu2BhDkARIsAD7GBotiq-3An8wA9q9b1xsJi5_V48voBjrncPuxliin0w5Azsj6LPBB8IYaArZ5EALw_wcB&gclsrc=aw.ds)). Check it out if interested.
+- 📚 I’m currently reading [Introducing Python: Modern Computing in Simple Packages (2nd New edition)](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html](https://www.whsmith.co.uk/products/introducing-python-modern-computing-in-simple-packages-2nd-new-edition/bill-lubanovic/paperback/9781492051367.html?gad_source=1&gclid=Cj0KCQjwrKu2BhDkARIsAD7GBotiq-3An8wA9q9b1xsJi5_V48voBjrncPuxliin0w5Azsj6LPBB8IYaArZ5EALw_wcB&gclsrc=aw.ds)). Check it out if interested.
 - 🌱  I also offer freelance website development services for local businesses at no charge. My goal is to support small businesses in our community by providing them with a professional online presence. If you’re interested or know someone who might benefit from this, please feel free to reach out. I’d love to collaborate and contribute to the success of your business.
 - 📫 How to reach me: ammar.alnwylaty@gmail.com
 

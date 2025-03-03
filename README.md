@@ -1,4 +1,4 @@
-<h2> Hi! My name is Ammar - I'm an aspiring software engineer/cyber security specialist from the United Kingdom :) </h2>
+<h2> Hi! My name is Ammar - I'm an aspiring software engineer/ethical hacker from the United Kingdom :) </h2>
 
 
 
